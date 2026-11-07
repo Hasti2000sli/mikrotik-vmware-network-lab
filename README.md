@@ -72,4 +72,4 @@ Personal Networking Lab / Hands-on Network Administration Practice
 
 The following diagram illustrates the network architecture of this project.
 
-![Network Topology](screenshots/network-topology.png)
+![Network Topology](screenshots/Network-topology.jpg)
