@@ -24,7 +24,7 @@ The main objective is to practice network configuration, IP addressing, DHCP ser
 |---|---|
 | WAN | VMware NAT – VMnet8 |
 | LAN 1 | 192.168.11.0/24 |
-| LAN 2 | 192.168.10.0/24 |
+| LAN 2 | 10.10.10.0/24 |
 | PPPoE Network | 192.168.30.0/24 |
 | Management | Dedicated management network |
 
