@@ -68,3 +68,8 @@ This repository includes network topology diagrams, configuration screenshots, a
 ## Project Type
 
 Personal Networking Lab / Hands-on Network Administration Practice
+## Network Topology
+
+The following diagram illustrates the network architecture of this project.
+
+![Network Topology](screenshots/network-topology.png)
